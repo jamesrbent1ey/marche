@@ -1,0 +1,22 @@
+[{
+    "title":"Colosseum",
+    "latitude":41.890251,
+    "longitude":12.492373,
+    "radius":35.9139,
+    "onenter":[{
+        "type":"display",
+        "data":{"type":"text","data":"You have reached the Colosseum"}
+    },{
+        "type":"vibrate"
+    }],
+    "onexit":[{
+        "type":"prompt",
+        "data":{"message":"type the letter A","confirmation":"A","action":{
+            "type":"route",
+            "data":{"title":"not the Colosseum","latitude":41.900932,"longitude":12.483313,"radius":15.0,"onenter":[],"onexit":[]}
+        }}
+    },{
+        "type":"send",
+        "data":{"method":"text","recipient":"5551234","data":"point xyz was reached!"}
+    }]
+}]
