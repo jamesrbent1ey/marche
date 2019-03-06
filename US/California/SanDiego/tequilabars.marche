@@ -1,0 +1,54 @@
+[
+    {
+        "title":"Cantina Mayahuel",
+        "latitude":32.763150,
+        "longitude":-117.130580,
+        "radius":15,
+        "onexit":[],
+        "onenter":[
+            {
+                "type":"display",
+                "data":{"type":"text","data":"Cantina Mayahuel in North Park serves every type of tequila and mezcal imaginable, along with simple Mexican food like tacos and tortas. Mole dishes, fish tacos, margaritas, happy-hour deals & more in a low-key space with a wood bar"}
+            }
+        ]
+    },
+    {
+        "title":"Tequila Factory Restaurant & Cantina",
+        "latitude":32.752630,
+        "longitude":-117.192950,
+        "radius":15,
+        "onexit":[],
+        "onenter":[
+            {
+                "type":"display",
+                "data":{"type":"text","data":"Festive eatery with rooftop views offering familiar Mexican fare & special edition tequila"}
+            }
+        ]
+    },
+     {
+         "title":"La Puerta",
+         "latitude":32.711010,
+         "longitude":-117.161330,
+         "radius":15,
+         "onexit":[],
+         "onenter":[
+             {
+                 "type":"display",
+                 "data":{"type":"text","data":"Chill Mexican spot offers signature drinks & tequila alongside family recipes, plus DJs after hours"}
+             }
+         ]
+     },
+   {
+       "title":"El Agave Tequileria",
+       "latitude":32.749851,
+       "longitude":-117.192337,
+       "radius":15,
+       "onexit":[],
+       "onenter":[
+           {
+               "type":"display",
+               "data":{"type":"text","data":"Bottles line the walls at this high-end Mexican eatery known for its extensive tequila collection"}
+           }
+       ]
+   }
+]
