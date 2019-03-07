@@ -1,0 +1,41 @@
+[{
+    "title":"Belly Up",
+    "latitude":32.9909289,
+    "longitude":-117.2728315,
+    "radius":15,
+    "onenter":[{
+        "type":"display",
+        "data":{"type":"text","data":"Intimate music venue creates a lively yet casual scene with a rotating lineup of popular acts."}
+    }],
+    "onexit":[]
+ },{
+   "title":"Dizzy's",
+   "latitude":32.7767713,
+   "longitude":-117.2093311,
+   "radius":15,
+   "onenter":[{
+       "type":"display",
+       "data":{"type":"text","data":"Music venue presenting all-ages jazz & folk concerts at Arias Hall."}
+   }],
+   "onexit":[]
+  },{
+      "title":"The Loft at UC San Diego",
+      "latitude":32.8794675,
+      "longitude":-117.2380866,
+      "radius":15,
+      "onenter":[{
+          "type":"display",
+          "data":{"type":"text","data":"Its totally cool…"}
+      }],
+      "onexit":[]
+  },{
+         "title":"Brick By Brick",
+         "latitude":32.768692,
+         "longitude":-117.2032534,
+         "radius":15,
+         "onenter":[{
+             "type":"display",
+             "data":{"type":"text","data":"This dark, no-nonsense music venue with a lounge & pool tables mostly features live hard-rock bands."}
+         }],
+         "onexit":[]
+  }]

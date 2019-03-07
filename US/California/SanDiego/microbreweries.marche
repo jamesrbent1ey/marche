@@ -1,0 +1,41 @@
+[{
+    "title":"Societe Brewing Company",
+    "latitude":32.8338624,
+    "longitude":-117.1485619,
+    "radius":15,
+    "onenter":[{
+        "type":"display",
+        "data":{"type":"text","data":"Spacious brewery & tasting room with a rustic feel specializing in Belgian-style & barrel-aged beer."}
+    }],
+    "onexit":[]
+ },{
+   "title":"North Park Beer Company",
+   "latitude":32.7487228,
+   "longitude":-117.1313066,
+   "radius":15,
+   "onenter":[{
+       "type":"display",
+       "data":{"type":"text","data":"Spacious brewery & taproom serving San Diego-style ales & lagers amid dapper decor"}
+   }],
+   "onexit":[]
+  },{
+      "title":"Mikkeller Brewing",
+      "latitude":32.8923817,
+      "longitude":-117.146921,
+      "radius":15,
+      "onenter":[{
+          "type":"display",
+          "data":{"type":"text","data":"My Morning Jacket fans: they have a beer called My Morning Sweater that is Hot!!!"}
+      }],
+      "onexit":[]
+  },{
+         "title":"Ballast Point",
+         "latitude":32.7667206,
+         "longitude":-117.1974526,
+         "radius":15,
+         "onenter":[{
+             "type":"display",
+             "data":{"type":"text","data":"Buzzy brewery & shop stocking basic brewing kits & advanced systems, plus own-label beer & spirits."}
+         }],
+         "onexit":[]
+  }]
