@@ -7,8 +7,8 @@
         "onexit":[],
         "onenter":[
             {
-                "type":"display",
-                "data":{"type":"text","data":"Cantina Mayahuel in North Park serves every type of tequila and mezcal imaginable, along with simple Mexican food like tacos and tortas. Mole dishes, fish tacos, margaritas, happy-hour deals & more in a low-key space with a wood bar"}
+                "type":"prompt",
+                "data":{"message":"Cantina Mayahuel in North Park serves every type of tequila and mezcal imaginable, along with simple Mexican food like tacos and tortas. Mole dishes, fish tacos, margaritas, happy-hour deals & more in a low-key space with a wood bar"}
             }
         ]
     },
@@ -20,8 +20,8 @@
         "onexit":[],
         "onenter":[
             {
-                "type":"display",
-                "data":{"type":"text","data":"Festive eatery with rooftop views offering familiar Mexican fare & special edition tequila"}
+                "type":"prompt",
+                "data":{"message":"Festive eatery with rooftop views offering familiar Mexican fare & special edition tequila"}
             }
         ]
     },
@@ -33,8 +33,8 @@
          "onexit":[],
          "onenter":[
              {
-                 "type":"display",
-                 "data":{"type":"text","data":"Chill Mexican spot offers signature drinks & tequila alongside family recipes, plus DJs after hours"}
+                 "type":"prompt",
+                 "data":{"message":"Chill Mexican spot offers signature drinks & tequila alongside family recipes, plus DJs after hours"}
              }
          ]
      },
@@ -46,8 +46,8 @@
        "onexit":[],
        "onenter":[
            {
-               "type":"display",
-               "data":{"type":"text","data":"Bottles line the walls at this high-end Mexican eatery known for its extensive tequila collection"}
+               "type":"prompt",
+               "data":{"message":"Bottles line the walls at this high-end Mexican eatery known for its extensive tequila collection"}
            }
        ]
    }

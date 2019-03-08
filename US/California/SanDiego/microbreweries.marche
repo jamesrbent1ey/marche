@@ -4,8 +4,8 @@
     "longitude":-117.1485619,
     "radius":15,
     "onenter":[{
-        "type":"display",
-        "data":{"type":"text","data":"Spacious brewery & tasting room with a rustic feel specializing in Belgian-style & barrel-aged beer."}
+        "type":"prompt",
+        "data":{"message":"Spacious brewery & tasting room with a rustic feel specializing in Belgian-style & barrel-aged beer."}
     }],
     "onexit":[]
  },{
@@ -14,8 +14,8 @@
    "longitude":-117.1313066,
    "radius":15,
    "onenter":[{
-       "type":"display",
-       "data":{"type":"text","data":"Spacious brewery & taproom serving San Diego-style ales & lagers amid dapper decor"}
+       "type":"prompt",
+       "data":{"message":"Spacious brewery & taproom serving San Diego-style ales & lagers amid dapper decor"}
    }],
    "onexit":[]
   },{
@@ -24,8 +24,8 @@
       "longitude":-117.146921,
       "radius":15,
       "onenter":[{
-          "type":"display",
-          "data":{"type":"text","data":"My Morning Jacket fans: they have a beer called My Morning Sweater that is Hot!!!"}
+          "type":"prompt",
+          "data":{"message":"My Morning Jacket fans: they have a beer called My Morning Sweater that is Hot!!!"}
       }],
       "onexit":[]
   },{
@@ -34,8 +34,8 @@
          "longitude":-117.1974526,
          "radius":15,
          "onenter":[{
-             "type":"display",
-             "data":{"type":"text","data":"Buzzy brewery & shop stocking basic brewing kits & advanced systems, plus own-label beer & spirits."}
+             "type":"prompt",
+             "data":{"message":"Buzzy brewery & shop stocking basic brewing kits & advanced systems, plus own-label beer & spirits."}
          }],
          "onexit":[]
   }]

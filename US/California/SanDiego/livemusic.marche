@@ -4,8 +4,8 @@
     "longitude":-117.2728315,
     "radius":15,
     "onenter":[{
-        "type":"display",
-        "data":{"type":"text","data":"Intimate music venue creates a lively yet casual scene with a rotating lineup of popular acts."}
+        "type":"prompt",
+        "data":{"message":"Intimate music venue creates a lively yet casual scene with a rotating lineup of popular acts."}
     }],
     "onexit":[]
  },{
@@ -14,8 +14,8 @@
    "longitude":-117.2093311,
    "radius":15,
    "onenter":[{
-       "type":"display",
-       "data":{"type":"text","data":"Music venue presenting all-ages jazz & folk concerts at Arias Hall."}
+       "type":"prompt",
+       "data":{"message":"Music venue presenting all-ages jazz & folk concerts at Arias Hall."}
    }],
    "onexit":[]
   },{
@@ -24,8 +24,8 @@
       "longitude":-117.2380866,
       "radius":15,
       "onenter":[{
-          "type":"display",
-          "data":{"type":"text","data":"Its totally cool…"}
+          "type":"prompt",
+          "data":{"message":"Its totally cool…"}
       }],
       "onexit":[]
   },{
@@ -34,8 +34,8 @@
          "longitude":-117.2032534,
          "radius":15,
          "onenter":[{
-             "type":"display",
-             "data":{"type":"text","data":"This dark, no-nonsense music venue with a lounge & pool tables mostly features live hard-rock bands."}
+             "type":"prompt",
+             "data":{"message":"This dark, no-nonsense music venue with a lounge & pool tables mostly features live hard-rock bands."}
          }],
          "onexit":[]
   }]

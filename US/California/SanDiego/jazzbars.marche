@@ -5,8 +5,8 @@
     "longitude":-117.142010,
     "radius":15,
     "onenter":[{
-                "type":"display",
-                "data":{"type":"text","data":"Southern-style spot in the Ramada with Cajun food & drinks, plus regular live blues & jazz"}
+                "type":"prompt",
+                "data":{"message":"Southern-style spot in the Ramada with Cajun food & drinks, plus regular live blues & jazz"}
               }],
     "onexit":[]
   },
@@ -16,8 +16,8 @@
     "longitude":-117.2093311,
     "radius":15,
     "onenter":[{
-                "type":"display",
-                "data":{"type":"text","data":"Music venue presenting all-ages jazz & folk concerts at Arias Hall."}
+                "type":"prompt",
+                "data":{"message":"Music venue presenting all-ages jazz & folk concerts at Arias Hall."}
               }],
     "onexit":[]
   },
@@ -27,8 +27,8 @@
    "longitude":-117.1308763,
    "radius":15,
    "onenter":[{
-               "type":"display",
-               "data":{"type":"text","data":"Stylish whiskey lounge offers an extensive bourbon menu, craft beers & dark wood-lined interiors."}
+               "type":"prompt",
+               "data":{"message":"Stylish whiskey lounge offers an extensive bourbon menu, craft beers & dark wood-lined interiors."}
              }],
    "onexit":[]
  },
@@ -38,8 +38,8 @@
      "longitude":-117.2263948,
      "radius":15,
      "onenter":[{
-                 "type":"display",
-                 "data":{"type":"text","data":"Bayside performance venue serving seafood-focused Californian cuisine before or during concerts"}
+                 "type":"prompt",
+                 "data":{"message":"Bayside performance venue serving seafood-focused Californian cuisine before or during concerts"}
                }],
      "onexit":[]
    }
