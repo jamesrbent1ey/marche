@@ -1,0 +1,1 @@
+[{"title":"Mail","latitude":34.954442426613824,"longitude":-80.89149546867185,"radius":15,"onenter":[{"type":"prompt","data":{"message":"Mail box"}}],"onexit":[]},{"title":"Thames","latitude":34.95017045610614,"longitude":-80.8926651871049,"radius":15,"onenter":[{"type":"prompt","data":{"message":"Intersection of Thames and Arges"}}],"onexit":[]}]
